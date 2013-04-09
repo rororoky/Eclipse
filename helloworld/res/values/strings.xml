@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">遥控器</string>
+    <string name="action_settings">设置</string>
+    <string name="hello_world">遥控器</string>
+    <string name="button1">选择机型</string>
+     <string name="button01">3</string>
+    <string name="button2">退出</string>
+     <string name="button02">4</string>
+    <string name="button3">1</string>
+     <string name="button03">5</string>
+     <string name="button4">2</string>
+    <string name="button04">6</string>
+    <string name="button5">节目+</string>
+    <string name="button05">7</string>
+    <string name="button06">8</string>
+    <string name="button07">9</string>
+    <string name="button08">节目-</string>
+     <string name="switch1">开关</string>
+      <string name="digitalClock1">Digital</string>
+</resources>

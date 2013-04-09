@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <!-- vendor and product ID for Dream Cheeky USB Missle Launcher -->
+    <usb-device vendor-id="2689" product-id="1793" />
+    <!-- vendor and product ID for Dream Cheeky Wireless USB Missle Launcher -->
+    <usb-device vendor-id="2689" product-id="65281" />
+
+</LinearLayout>
